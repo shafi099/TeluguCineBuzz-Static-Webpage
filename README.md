@@ -15,4 +15,4 @@ Overall, your web page provides a one-stop-shop for Telugu movie fans looking fo
 
 # Preview
 
-![A beautiful sunset over the ocean](https://example.com/sunset.jpg)
+![Preview](127.0.0.1_5500_MovieWikki.html (3).png)
