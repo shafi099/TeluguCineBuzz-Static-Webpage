@@ -13,4 +13,6 @@ Overall, your web page provides a one-stop-shop for Telugu movie fans looking fo
 - Hyper Text Markup Language
 - Cascading Style Sheet
 
+# Preview
 
+![A beautiful sunset over the ocean](https://example.com/sunset.jpg)
