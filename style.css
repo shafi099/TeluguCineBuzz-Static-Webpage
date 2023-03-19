@@ -191,8 +191,8 @@ margin-top:30px;display:flex;gap:14px;font-family: 'Sora', sans-serif;font-weigh
   align-items:center;
 }
 
-img{ border-radius: 10px; ;height:220px;width:220px;float:center;}
-.title{font-family: 'Sora', sans-serif;font-weight: 900;font-size:18px;color: #ededed;}
+img{ border-radius: 10px; ;height:175px;width:175px;float:center;margin-top:18px;}
+.title{font-family: 'Sora', sans-serif;font-weight: 900;font-size:24px;color: #ededed;}
 .moviepara{font-family: 'Baloo 2', cursive;font-weight:100;color: #ededed; }
 .last{padding-top:12px;padding-left:24px;font-family: 'Baloo 2', cursive;font-weight:100;margin-left:0px;margin-right:0px;color: #ededed}
 .bottommenu{padding-left:12px;padding-top:4px;font-family: 'Baloo 2', cursive;font-weight:100;gap:24px;}
