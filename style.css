@@ -177,12 +177,12 @@ margin-top:30px;display:flex;gap:14px;font-family: 'Sora', sans-serif;font-weigh
 
 .innerbox1,.innerbox2{
   background-color:#2e2e2d;
-  
+  /* height:500px; */
     max-width: 600px;
     width: 90%;
   
   overflow:auto;
-  height:80%;
+  height:90%;
   display:grid;
   gap:15px;
   padding:12px;
